@@ -1,5 +1,5 @@
-This is a Sequential model for predicting price of secong hand car .
+This is a Sequential model for predicting price of secong hand car .<br/>
 Dataset source :
-https://www.kaggle.com/datasets/mayankpatel14/second-hand-used-cars-data-set-linear-regression
+https://www.kaggle.com/datasets/mayankpatel14/second-hand-used-cars-data-set-linear-regression <br/>
 Youtube vedio link :
 https://www.youtube.com/watch?v=IA3WxTTPXqQ
